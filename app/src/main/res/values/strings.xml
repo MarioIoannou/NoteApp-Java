@@ -3,4 +3,6 @@
     <string name="notes">Notes</string>
     <string name="title">Title:</string>
     <string name="add_notes">Add Notes:</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
 </resources>

@@ -85,7 +85,7 @@
                     android:marqueeRepeatLimit="marquee_forever"
                     android:scrollHorizontally="true"
                     tools:text="Date"
-                    android:textColor="@color/color_black"
+                    android:textColor="@color/color_white"
                     android:padding="@dimen/_4sdp"
                     android:maxLines="10"
                     android:textStyle="normal"/>
